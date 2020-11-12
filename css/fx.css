@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+	font-family: 'Myriad Set Pro', 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	background-color: black;
+	color: white;
+	font-size: 17.5px;
+}
+
+header{
+	background-color: white;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+header h1{
+	color: black;
+	font-size:40px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+footer{
+	background-color: white;
+	text-align: center;
+	color: black;
+	padding:20px;
+}
+footer a{
+	margin:0;
+}
