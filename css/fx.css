@@ -20,6 +20,7 @@ header h1{
 
 h2{
 	font-size: 30px;
+	margin:30px 0 10px;
 }
 
 main{
@@ -32,7 +33,7 @@ footer{
 	background-color: white;
 	text-align: center;
 	color: black;
-	padding:20px;
+	padding:10px;
 }
 footer a{
 	margin:0;
