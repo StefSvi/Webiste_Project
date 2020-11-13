@@ -1,6 +1,6 @@
 body{
 	margin: 0;
-	font-family: 'Myriad Set Pro', 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+	font-family: sans-serif;
 	background-color: #1d1d1f;
 	color: white;
 	font-size: 17.5px;
@@ -14,9 +14,9 @@ header{
 }
 
 header img{
-		border-radius: 170px;
-		width: 300px;
-		border:20px solid black;
+	border-radius: 170px;
+	width: 300px;
+	border:20px solid black;
 }
 
 header h1{
